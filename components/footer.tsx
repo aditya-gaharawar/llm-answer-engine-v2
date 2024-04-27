@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
       <div className="flex justify-end">
         {/* GitHub, Twitter, and Discord icons removed */}
       </div>
-      <p className="text-sm text-gray-500">WEBSPACEAI Research can make mistakes.</p>
+      <p className="text-sm text-gray-500"></p>
     </footer>
   )
 }
